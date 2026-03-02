@@ -1,7 +1,7 @@
 ☕ Coffee Sales Analysis Dashboard
 Overview
 An interactive dashboard built with Microsoft Excel to transform raw sales data into actionable business insights. This project helps in understanding customer behavior and optimizing shop operations.
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](dashboard.png)
 Key Insights
 Total Revenue: $42.6k from 1,313 orders.
 
